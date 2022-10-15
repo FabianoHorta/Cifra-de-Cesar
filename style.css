@@ -1,3 +1,25 @@
-.header{
-    background-color: white;
+body{
+    background-image:url(./img/background-test.jpg);
+    background-size: cover;
+}
+#code{
+    height: 30px;
+    width: 150px;
+    margin-top: 400px;
+    margin-left: 500px;
+   
+}
+
+#uncode{
+    height: 30px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+#cifra{
+    font-size: 50px;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
 }

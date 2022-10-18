@@ -17,9 +17,21 @@ body{
     margin-left: 2px;
 }
 
+#caixa{
+    flex-direction: row;
+}
+
 #cifra{
     font-size: 50px;
     color: white;
     margin-top: 50px;
     text-align: center;
+}
+
+#base64{
+    color: white;
+}
+
+#cifrac{
+    color: white;
 }
